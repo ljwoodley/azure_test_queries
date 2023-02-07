@@ -1,0 +1,6 @@
+SELECT TOP (5) 
+      [Compliant]
+      ,[Eligible]
+      ,[Rate]
+      ,[Type]
+  FROM [dbo].[W15_Forecast]
